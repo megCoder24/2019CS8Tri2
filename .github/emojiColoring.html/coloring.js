@@ -1,5 +1,13 @@
 $(".pupilImage").click(
     function(){
-        alert("I wish it was friday")
+       var clickedPupil = $(this).css("background-image")
+       $(".pupil").css("background-image", clickedPupil);
+    }
+);
+
+$(".mouthImage").click(
+    function(){
+        var clickMouth=$(this).css("background-image");
+        alert(clickMouth);
     }
 );
