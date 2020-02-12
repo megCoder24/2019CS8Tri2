@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+
+
+
+#pizza{
+    background: url('pizza.jpg.png') no-repeat ;
+    width: 170px;
+    height: 170px;
+    background-size: contain;
+
+}
+
+#breakfast{
+    background: url('breakfast.jpg.png') no-repeat ;
+    width: 170px;
+    height: 170px;
+    background-size: contain; 
+
+}
+
+#dinner{
+    background: url('dinner.jpg') no-repeat ;
+    width: 170px;
+    height: 170px;
+    background-size: contain; 
+}
+
+#sushi{
+    background: url('sushii.jpg') no-repeat ;
+    width: 170px;
+    height: 170px;
+    background-size: contain; 
+}
+
+#salad{
+    background: url('salad.jpg') no-repeat ;
+    width: 170px;
+    height: 170px;
+    background-size: contain; 
+}
+
+#icecream{
+    background: url('ice.jpg') no-repeat ;
+    width: 170px;
+    height: 170px;
+    background-size: contain; 
+}
+
+
